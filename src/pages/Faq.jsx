@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { AnimatePresence, motion } from 'framer-motion'
+import { AnimatePresence, motion } from 'motion/react'
 import { Arrow } from '../components/Arrow'
 import Reveal, { RevealGroup, RevealItem } from '../components/Reveal'
 import SplitText from '../components/SplitText'

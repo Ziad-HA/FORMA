@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { motion, useScroll, useTransform } from 'framer-motion'
+import { motion, useScroll, useTransform } from 'motion/react'
 import { Arrow } from '../components/Arrow'
 import Payment from '../components/Payment'
 import ImageReveal from '../components/ImageReveal'

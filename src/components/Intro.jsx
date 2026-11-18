@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { motion } from 'framer-motion'
+import { motion } from 'motion/react'
 import { t } from '../text'
 import CountUp from './CountUp'
 

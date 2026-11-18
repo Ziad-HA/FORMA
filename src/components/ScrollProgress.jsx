@@ -1,4 +1,4 @@
-import { motion, useScroll, useSpring } from 'framer-motion'
+import { motion, useScroll, useSpring } from 'motion/react'
 
 // Thin red bar across the top that fills as you scroll.
 export default function ScrollProgress() {

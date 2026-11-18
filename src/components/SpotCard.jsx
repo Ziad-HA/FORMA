@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+import { motion } from 'motion/react'
 import { itemVariants } from '../lib/motion'
 
 // A card that arrives with its RevealGroup and lights up red under the cursor.

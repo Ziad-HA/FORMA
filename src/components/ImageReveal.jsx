@@ -1,5 +1,5 @@
 import { useRef } from 'react'
-import { motion, useScroll, useTransform } from 'framer-motion'
+import { motion, useScroll, useTransform } from 'motion/react'
 import { EASE } from '../lib/motion'
 
 // A photo that fades and slides up when scrolled into view, settles from a zoom, then drifts slightly as you scroll.

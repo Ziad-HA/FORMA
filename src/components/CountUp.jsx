@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import { animate, useInView } from 'framer-motion'
+import { animate, useInView } from 'motion/react'
 
 // Counts from 0 up to `to` when it scrolls into view.
 // While counting it shakes and glows red; when it lands it slams and sends out a shockwave.

@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+import { motion } from 'motion/react'
 import { EASE, groupVariants, itemVariants } from '../lib/motion'
 
 // Fades and lifts its children in when scrolled into view.

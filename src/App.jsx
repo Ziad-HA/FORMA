@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react'
-import { MotionConfig, AnimatePresence } from 'framer-motion'
+import { MotionConfig, AnimatePresence } from 'motion/react'
 import { Navigate, Outlet, Route, Routes, useLocation } from 'react-router-dom'
 import Footer from './components/Footer'
 import CursorGlow from './components/CursorGlow'

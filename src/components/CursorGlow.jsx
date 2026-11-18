@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { motion, useMotionValue, useSpring } from 'framer-motion'
+import { motion, useMotionValue, useSpring } from 'motion/react'
 
 // A soft red light that follows the mouse. Only on devices with a real pointer.
 export default function CursorGlow() {
