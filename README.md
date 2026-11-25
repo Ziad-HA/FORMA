@@ -1,13 +1,27 @@
-# NOBI Coach
+# FORMA
 
-Online gym-coach site in the same visual language as [NOBI streetwear](https://nobi-brand.vercel.app/): black, volt, editorial type.
+A responsive online fitness-coaching website built with React. The experience includes training programs, coaching packages, client feedback, booking UI, a fitness calculator, and downloadable PDF results.
 
-- Programs, packages / subscriptions, results, client feedback
-- Booking hold (browser-local demo)
-- Calorie + US Navy body-fat calculator
-- Branded A4 PDF via jsPDF (drawn layout, not a screenshot)
+## Features
+
+- Multi-page coaching website with responsive layouts
+- Programs, packages, transformations, and client feedback
+- Booking demo with browser-local state
+- Calorie and US Navy body-fat estimate calculator
+- Branded A4 PDF generation with jsPDF
+- WhatsApp contact links
+
+## Development
 
 ```bash
 npm install
 npm run dev
 ```
+
+## Build
+
+```bash
+npm run build
+```
+
+Booking and payment flows are demonstration UI; no online payment processing or server-side booking is configured.
