@@ -37,11 +37,11 @@ export default function About() {
             </div>
           </div>
           <div className="portrait rise-late" style={{ '--i': 0 }}>
-            {/* Drop a photo at public/nobi.jpg and it shows here automatically. */}
+            {/* Drop a coach photo at public/coach.jpg and it shows here automatically. */}
             {noPhoto ? null : (
               <img
-                src="/nobi.jpg"
-                alt="Nobi"
+                src="/coach.jpg"
+                alt="FORMA coach"
                 onError={() => setNoPhoto(true)}
               />
             )}
