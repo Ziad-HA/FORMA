@@ -33,7 +33,7 @@ export default function Terms({ onAccept }) {
         transition={{ duration: 0.8, delay: 0.15, ease }}
       >
         <p className="terms-logo">
-          <span className="logo-red">NOBI</span> COACH
+          <span className="logo-red">FORMA</span>
         </p>
         <h1 id="terms-title">{t('terms.title')}</h1>
         <div className="terms-body" tabIndex={0}>
