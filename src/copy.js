@@ -1,7 +1,7 @@
 // All page text lives here. Use "\n" for a line break and {n}, {p} ... for values the page fills in.
 
 export const copy = {
-  'meta.title': 'NOBI Coach — Start Your Transformation',
+  'meta.title': 'FORMA — Online Fitness Coaching',
 
   'nav.skip': 'Skip to content',
   'nav.features': 'Features',
@@ -17,7 +17,7 @@ export const copy = {
   'intro.tag': 'Start your transformation',
   'intro.skip': 'Skip',
 
-  'hero.eyebrow': 'NOBI ELITE ONLINE COACHING — EST. 2026',
+  'hero.eyebrow': 'FORMA PERFORMANCE COACHING — EST. 2026',
   'hero.title': 'TRAIN RIGHT.\nSEE THE *DIFFERENCE.*',
   'hero.lede':
     'Elite online coaching and the high-performance mindset to dominate. Designed strictly for champions who refuse to settle.',
@@ -163,16 +163,16 @@ export const copy = {
   'footer.rights': 'All rights reserved.',
 
   'faq.eyebrow': 'FAQ',
-  'faq.sub': 'Everything you need to know about NOBI Coaching.',
+  'faq.sub': 'Everything you need to know about FORMA coaching.',
   'faq.cta.title': 'Still have a question?',
   'faq.cta.text': 'Send it. You get a real answer before you pay.',
-  'faq.cta.btn': 'Talk to Nobi',
+  'faq.cta.btn': 'Talk to a coach',
 
   'about.eyebrow': 'About me',
-  'about.h1': "I'm Nobi,\nyour online coach.",
+  'about.h1': "Coaching built around\nyou.",
   'about.lead':
     'Programming, nutrition and honest feedback on your technique — from a coach who actually knows your numbers.',
-  'about.portrait': 'Nobi — Online coach',
+  'about.portrait': 'FORMA — Online coaching',
   'about.story.eyebrow': 'My story',
   'about.story.title': 'I did not get here by feeling ready.',
   'about.story.p1':
@@ -228,8 +228,8 @@ export const copy = {
   'pay.after': 'After payment, send your confirmation on WhatsApp to activate your plan.',
 
   'terms.title': 'TERMS & CONDITIONS',
-  'terms.p1': "By making a payment and enrolling in NOBI Coach programs, I acknowledge and agree that I have read, understood, and accept all terms and conditions of the coaching service. I understand that each coaching package runs for the duration of the package I choose and that results may vary based on individual effort, consistency, and adherence to the provided nutrition and training plans. I acknowledge that once I have begun my training journey, received my personalized plans, and engaged in the coaching process, no refunds will be provided under any circumstances. I commit to following the program guidelines and communicating any concerns directly with my coach to get the most out of my experience.",
-  'terms.p2': 'The only exception for a refund is in the case of a documented coaching service failure, where NOBI Coach has demonstrably failed to deliver the agreed-upon coaching services as outlined in the selected package.',
+  'terms.p1': "By making a payment and enrolling in FORMA coaching programs, I acknowledge and agree that I have read, understood, and accept all terms and conditions of the coaching service. I understand that each coaching package runs for the duration of the package I choose and that results may vary based on individual effort, consistency, and adherence to the provided nutrition and training plans. I acknowledge that once I have begun my training journey, received my personalized plans, and engaged in the coaching process, no refunds will be provided under any circumstances. I commit to following the program guidelines and communicating any concerns directly with my coach to get the most out of my experience.",
+  'terms.p2': 'The only exception for a refund is in the case of a documented coaching service failure, where FORMA has demonstrably failed to deliver the agreed-upon coaching services as outlined in the selected package.',
   'terms.p3': '(Also there is no refund on deposits made on Instagram or WhatsApp.)',
   'terms.agree': 'I have read and agree to the terms and conditions above.',
   'terms.btn': 'I Agree & Continue',
