@@ -74,8 +74,8 @@ export default function Intro({ onDone }) {
       </button>
       <div className="intro-center">
         <Barbell />
-        <div className="intro-word" aria-label="NOBI COACH">
-          {'NOBI'.split('').map((ch, i) => (
+        <div className="intro-word" aria-label="FORMA">
+          {'FORMA'.split('').map((ch, i) => (
             <span className="intro-mask" key={i}>
               <motion.span
                 initial={{ y: '115%' }}
@@ -93,7 +93,7 @@ export default function Intro({ onDone }) {
             animate={{ y: 0 }}
             transition={{ duration: 0.7, delay: 0.6, ease }}
           >
-            COACH
+            ONLINE COACHING
           </motion.span>
         </span>
         <p className="intro-count" aria-hidden="true">
