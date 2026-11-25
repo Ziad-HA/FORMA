@@ -26,7 +26,7 @@ export default function Footer() {
       <div className="footer-grid">
         <div>
           <p className="footer-logo">
-            <span className="logo-red">NOBI</span> COACH
+            <span className="logo-red">FORMA</span>
           </p>
           <p className="footer-tag">{t('footer.tag')}</p>
           {socials.length ? (
@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
       </div>
       <p className="footer-copy">
-        © {new Date().getFullYear()} NOBI Coach. {t('footer.rights')}
+        © {new Date().getFullYear()} FORMA. {t('footer.rights')}
       </p>
     </footer>
   )
