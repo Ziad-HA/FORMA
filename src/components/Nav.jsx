@@ -51,8 +51,7 @@ export default function Nav() {
       </a>
       <div className="nav-inner-nobi">
         <Link className="logo-nobi" to="/" onClick={close}>
-          <span className="logo-red">NOBI</span>
-          <span>COACH</span>
+          <span className="logo-red">FORMA</span>
         </Link>
 
         <nav id="primary-nav" className="nav-links-nobi" aria-label="Primary">
